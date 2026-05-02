@@ -1,8 +1,5 @@
-# customer-segmentation-clustering
-Customer segmentation analysis using clustering to optimize marketing strategy and improve conversion rates.
-
-
 # Customer Segmentation & Marketing Strategy Analysis
+Customer segmentation analysis using clustering to optimize marketing strategy and improve conversion rates.
 
 **Author:** Nur Atiqoh  
 
